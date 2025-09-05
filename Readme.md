@@ -1,4 +1,4 @@
-App de Contactos (PHP + MySQL + MVC)
+App de Contactos (PHP + MySQL + MVC y poo)
 
 Aplicación web sencilla para gestionar contactos, hecha en PHP con MVC, PDO y MySQL.
 Permite:
@@ -8,16 +8,16 @@ Registro e inicio de sesión de usuarios.
 CRUD de contactos (crear, listar, editar, eliminar).
 
 
-/contactos-app
-├── /app
-│   ├── /Controllers
-│   ├── /Models
-│   ├── /Views
-│   └── Database.php
-├── /public
-│   └── index.php
-├── composer.json
-└── contactos.sql
+/contactos-app<br>
+├── /app<br>
+│   ├── /Controllers<br>
+│   ├── /Models<br>
+│   ├── /Views<br>
+│   └── Database.php<br>
+├── /public<br>
+│   └── index.php<br>
+├── composer.json<br>
+└── contactos.sql<br>
 Instalación
 
 Clonar o descargar este repositorio.
